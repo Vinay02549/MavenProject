@@ -1,6 +1,6 @@
 package inheritence;
 
-public class Cust extends ICICI,BOB {
+//public class Cust extends ICICI,BOB {
           
 	/* Mutliple inheritance.. concept....
 	 * CTE means complie time error 
@@ -11,4 +11,4 @@ public class Cust extends ICICI,BOB {
 	 */
 	
 	
-}
+//}
