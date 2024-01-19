@@ -7,5 +7,6 @@ public class Student {
 		System.out.println("MJCET");
 		System.out.println("BTECH-Computer Science");
 		System.out.println("Degree-58.3%\nINT-75%\nSSC-66%");
+		System.out.println("-------------------------------------");
 	}
 }
